@@ -1,1 +1,2 @@
-# pro24-hammer-and-the-objects-
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
